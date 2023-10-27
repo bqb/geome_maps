@@ -1,0 +1,1 @@
++proj=aeqd +R=6371000 +lat_0=52 +lon_0=4.5 +units=m

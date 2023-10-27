@@ -1,0 +1,3 @@
+# our GeoPackage data geospatial data store will often exceed 25 MB 
+# so won't fit in GitHub and thus is hereby ignored for repo sync
+*.gpkg
