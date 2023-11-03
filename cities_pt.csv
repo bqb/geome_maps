@@ -1,8 +1,8 @@
 airport,label,x,y
-ams,rdam,4.5,52
-bom,mumbai,73,19
-cpt,kaapstad,18.5,-34
-dps,bali,115,-8.5
-rkv,reykjavik,-22,64
-sfo,sf,-122.5,37.75
-syd,sydney,151,-34
+syd,sydney,"151","-34"
+dps,denpasar,"115","-8.5"
+cpt,kaapstad,"18.5","-34"
+ams,rdam,"4.5","52"
+bom,mumbai,"73","19"
+rkv,reykjavik,"-22","64"
+sfo,sf,"-122.5","37.75"
